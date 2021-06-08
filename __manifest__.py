@@ -11,6 +11,7 @@
 ],
 'depends': [
     'library_app',
+    'mail',
 ],
 'application': False,
 }
